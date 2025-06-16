@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto automatiza a detecção e anonimização de rostos e placas veiculares em imagens digitais, utilizando modelos treinados em TensorFlow. A solução permite o processamento em lote de grandes volumes de imagens, aplicando desfoque intenso para garantir a privacidade e conformidade com legislações como LGPD e GDPR.
+Este projeto automatiza a detecção e anonimização de rostos e placas veiculares em imagens digitais, utilizando modelos treinados em TensorFlow. A solução permite o processamento em lote de grandes volumes de imagens, aplicando desfoque intenso para garantir a privacidade e conformidade com legislações como LGPD.
 
 ## Motivação
 
